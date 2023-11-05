@@ -11,6 +11,7 @@ const launch = {
     customer: ['ZTM', 'NASA'],
     upcoming: true,
     success: true
+    
 }
 
 launches.set(launch.flightNumber, launch);
